@@ -20,6 +20,7 @@
     "next": "^14.2.3",
     "npm-run-all": "^4.1.5",
     "postcss": "^8.4.38",
+    "radix-themes-tw": "^0.2.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-hook-form": "^7.53.0",
